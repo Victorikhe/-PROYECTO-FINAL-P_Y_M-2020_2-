@@ -45,7 +45,7 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 
 ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆:
 
-  *ENSABLE DE UN MENU CONFORMADO POR LAS OPCIONES DE: 
+    ENSABLE DE UN MENU CONFORMADO POR LAS OPCIONES DE: 
 
     -Llenado de arreglo de manera aleatoria. 
     -Llenado de un arreglo elemento por elemento.
