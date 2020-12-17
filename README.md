@@ -26,7 +26,6 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆:
 
     -ECUACION CUADRATRICA
-
     -CALCULO DEL INDICE DE MASA CORPORAL MAS DETALLADO
     -CALCULO DEL IMPAR
     -SIMULACION DE UN MARKET
