@@ -16,11 +16,8 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
  ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆:
  
     -Índice de Masa Corporal (IMC)
-
     -GRAVEDAD 
-
     -RADIO (Calculo del radio de una esfera)
-
     -PROGRAMA ARREGLADO.
 
 
@@ -31,13 +28,9 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
     -ECUACION CUADRATRICA
 
     -CALCULO DEL INDICE DE MASA CORPORAL MAS DETALLADO
-
     -CALCULO DEL IMPAR
-
     -SIMULACION DE UN MARKET
-
     -SIMULACION DEL IMPUESTO CAUSADO POR EL ESTADO CIVIL.
-
     -IDENTIFICADOR DE MAYORIA DE EDAD.
 
 
@@ -45,10 +38,8 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 
 ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆:
 
-     -SECUENCIA DE FIBONACCI Y APROXIMACION DEL AUREO. 
-
-     -OBTENCION DE LOS NUMEROS BINARIOS. 
-
+     -SECUENCIA DE FIBONACCI Y APROXIMACION DEL AUREO.
+     -OBTENCION DE LOS NUMEROS BINARIOS.
      -MARCANTE DE CODIGO INVALIDO.
 
 
