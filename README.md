@@ -2,10 +2,10 @@
 _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞𝔱𝔬𝔯𝔦𝔬 de 𝔓𝔯𝔬𝔤𝔯𝔞𝔪𝔞𝔠𝔦𝔬́𝔫 &amp; 𝔐𝔢́𝔱𝔬𝔡𝔬𝔰 𝔫𝔲𝔪𝔢́𝔯𝔦𝔠𝔬𝔰, tales llevadas a cabo durante el periodo 2020-2 por la estudiante 𝔄𝔫𝔡𝔯𝔢𝔞 ℜ𝔢𝔦𝔫𝔬𝔷𝔞 , cursante del 2do semestre de Ingenieria perteneciente al grupo 021"_
 
 
-                  UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA
-               FACULTAD DE INGENIERIA, ARQUITECTURA Y DISEÑO
+                         UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA
+                       FACULTAD DE INGENIERIA, ARQUITECTURA Y DISEÑO
               
-                   𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸́𝓷 𝔂 𝓶𝓮́𝓽𝓸𝓭𝓸𝓼 𝓷𝓾𝓶𝓮́𝓻𝓲𝓬𝓸𝓼 
+                          𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸́𝓷 𝔂 𝓶𝓮́𝓽𝓸𝓭𝓸𝓼 𝓷𝓾𝓶𝓮́𝓻𝓲𝓬𝓸𝓼 
                          
                          
 ![dessigner](https://user-images.githubusercontent.com/75811552/102476349-d8bec480-400f-11eb-8478-8a6fe65d2e47.gif)
