@@ -4,21 +4,15 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
                   UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA
 
                FACULTAD DE INGENIERIA, ARQUITECTURA Y DISEÑO
-▀█ █▀█ █▀█ █▀▀ █▀█ ▄▀█ █▀▄▀█ ▄▀█ █▀▀ █ █▀█ █▄░█   █▄█   █▀▄▀█ █▀▀ ▀█▀ █▀█ █▀▄ █▀█ █▀
-█▀▀ █▀▄ █▄█ █▄█ █▀▄ █▀█ █░▀░█ █▀█ █▄▄ █ █▄█ █░▀█   ░█░   █░▀░█ ██▄ ░█░ █▄█ █▄▀ █▄█ ▄█
+               
 
-█▄░█ █░█ █▀▄▀█ █▀▀ █▀█ █ █▀▀ █▀█ █▀
-█░▀█ █▄█ █░▀░█ ██▄ █▀▄ █ █▄▄ █▄█ ▄█
-
-           P R O G R A M A C I O N  Y  M E T O D O S  N U M E R I C O S 
+                  𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸́𝓷 𝔂 𝓶𝓮́𝓽𝓸𝓭𝓸𝓼 𝓷𝓾𝓶𝓮́𝓻𝓲𝓬𝓸𝓼
                          
                          
 ![dessigner](https://user-images.githubusercontent.com/75811552/102476349-d8bec480-400f-11eb-8478-8a6fe65d2e47.gif)
 
 ❅[PRACTICA NRO 1 - INTRODUCCION TIPOS DE VARIABLES](https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/commit/cd564c35ca3e55c3e4efd951e1c43402e0c060fc)
- 
- CONTENIDO: 
- 
+ ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆
 -Índice de Masa Corporal (IMC)
 
 -GRAVEDAD 
