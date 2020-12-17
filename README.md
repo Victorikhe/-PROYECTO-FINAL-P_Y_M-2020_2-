@@ -3,9 +3,8 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 
 
                   UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA
-
                FACULTAD DE INGENIERIA, ARQUITECTURA Y DISEÑO
-               
+              
                    𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸́𝓷 𝔂 𝓶𝓮́𝓽𝓸𝓭𝓸𝓼 𝓷𝓾𝓶𝓮́𝓻𝓲𝓬𝓸𝓼 
                          
                          
