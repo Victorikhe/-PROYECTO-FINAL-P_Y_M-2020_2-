@@ -76,6 +76,7 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 **Recomendación:**
 
 *Para ejecutar tomar en cuenta eliminar los *//* colocados antes de las funciones.*
+
       
 ❅ [PRACTICA NRO 6 - METODOS CERRADOS](https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/tree/main/SECANTE%20Y%20RAPHSON)
 
@@ -95,7 +96,8 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 
 ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆
 
-           Usando tal sistema de ecuaciones  
+    Usando tal sistema de ecuaciones  
+           
 ![ffa1aa19-fd30-4159-b42c-6c688fddfdd0](https://user-images.githubusercontent.com/75811552/102482235-bd57b780-4017-11eb-9da0-f26dab102c2d.jpg)   
    
 se calcula: 
