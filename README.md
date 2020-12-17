@@ -16,3 +16,4 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 ❅ [PRACTICA NRO 10- DERIVACION NUMERICA] (https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/tree/main/PRACTICA%20DERIVACION%20NUMERICA)
 
 ❅ [PRACTICA NRO 11 - METODOS DE ECUACIONES LINEALES] (https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/tree/main/PRACTICA%20METODOS%20DE%20ECUACIONES%20LINEALES)
+
