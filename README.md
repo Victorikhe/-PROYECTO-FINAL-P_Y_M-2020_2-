@@ -5,27 +5,50 @@ _"Conglomerado de las practicas realizadas dentro del 𝔏𝔞𝔟𝔬𝔯𝔞�
 
                FACULTAD DE INGENIERIA, ARQUITECTURA Y DISEÑO
                
-
                   𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸́𝓷 𝔂 𝓶𝓮́𝓽𝓸𝓭𝓸𝓼 𝓷𝓾𝓶𝓮́𝓻𝓲𝓬𝓸𝓼
                          
                          
 ![dessigner](https://user-images.githubusercontent.com/75811552/102476349-d8bec480-400f-11eb-8478-8a6fe65d2e47.gif)
 
 ❅[PRACTICA NRO 1 - INTRODUCCION TIPOS DE VARIABLES](https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/commit/cd564c35ca3e55c3e4efd951e1c43402e0c060fc)
- ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆
--Índice de Masa Corporal (IMC)
 
--GRAVEDAD 
+ ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆:
+ 
+    -Índice de Masa Corporal (IMC)
 
--RADIO (Calculo del radio de una esfera)
+    -GRAVEDAD 
 
--PROGRAMA ARREGLADO.
+    -RADIO (Calculo del radio de una esfera)
+
+    -PROGRAMA ARREGLADO.
 
 
 ❅ [PRACTICA NRO 2 - CONDICIONALES SIMPLES ANIDADOS Y MULTIPLES](https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/tree/main/PRACTICA%203)
 
+ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆:
+
+   -ECUACION CUADRATRICA
+
+   -CALCULO DEL INDICE DE MASA CORPORAL MAS DETALLADO
+
+   -CALCULO DEL IMPAR
+
+   -SIMULACION DE UN MARKET
+
+   -SIMULACION DEL IMPUESTO CAUSADO POR EL ESTADO CIVIL.
+
+   -IDENTIFICADOR DE MAYORIA DE EDAD.
+
 
 ❅ [PRACTICA NRO 3 - ESTRUCTURAS](https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/tree/main/PRACTICA%20DE%20LAS%20ESTRUCTURAS)
+
+ℂ𝕆ℕ𝕋𝔼ℕ𝕀𝔻𝕆:
+
+-SECUENCIA DE FIBONACCI Y APROXIMACION DEL AUREO. 
+
+-OBTENCION DE LOS NUMEROS BINARIOS. 
+
+-MARCANTE DE CODIGO INVALIDO.
 
 
 ❅ [PRACTICA NRO 4 - FUNCIONES, ARREGLOS Y MATRICES](https://github.com/Victorikhe/-PROYECTO-FINAL-P_Y_M-2020_2-/tree/main/PRACTICA%20DEL%20MENU)
